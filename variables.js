@@ -33,4 +33,5 @@ let isUserLogged = true
 
 const booleano = true 
 
-console.log(booleano = false) // esto da error en la consola porque las variables constantes no se pueden reutilizar.
+console.log(booleano = false) // esto da error en la consola porque las variables constantes no se pueden reutilizar. 
+
